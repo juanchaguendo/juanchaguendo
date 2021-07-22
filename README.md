@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @juanchaguendo
-- 👀 I’m interested in Frontent and Backend web development, AI, Big Data.
-- 🌱 I’m currently learning react/hooks/redux/Big Data
-- 💞️ I’m looking to collaborate on open projects
+- 👋 Hi, I’m Juan Manuel
+- 👀 I’m interested in Frontent / Backend web development, AI, Big Data, data science.
+- 🌱 I’m currently learning react, hooks, Go, nest.js, FastApi, Graphql
+- 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me @juanchaguendo
 
 <!---
